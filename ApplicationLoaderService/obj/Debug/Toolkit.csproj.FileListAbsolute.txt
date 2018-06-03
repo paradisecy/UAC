@@ -1,0 +1,15 @@
+C:\Temp\ApplicationLoaderService\bin\Debug\LoaderService.exe
+C:\Temp\ApplicationLoaderService\obj\Debug\Toolkit.csproj.CoreCompileInputs.cache
+C:\Temp\ApplicationLoaderService\obj\Debug\LoaderService.exe
+C:\Temp\ApplicationLoaderService\obj\Debug\LoaderService.pdb
+C:\Temp\ApplicationLoaderService\bin\Debug\LoaderService.pdb
+C:\Temp\ApplicationLoaderService\bin\Debug\LoaderService.exe.config
+C:\Temp\ApplicationLoaderService\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\ApplicationLoaderService\bin\Debug\System.Net.Http.Formatting.dll
+C:\Temp\ApplicationLoaderService\bin\Debug\System.Web.Http.dll
+C:\Temp\ApplicationLoaderService\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Temp\ApplicationLoaderService\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\ApplicationLoaderService\bin\Debug\System.Net.Http.Formatting.xml
+C:\Temp\ApplicationLoaderService\bin\Debug\System.Web.Http.xml
+C:\Temp\ApplicationLoaderService\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Temp\ApplicationLoaderService\obj\Debug\Toolkit.csproj.CopyComplete
